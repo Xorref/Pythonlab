@@ -1,1 +1,1 @@
-# Pythonlab
+print("hello.py");
